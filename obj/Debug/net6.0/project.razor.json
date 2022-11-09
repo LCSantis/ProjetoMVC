@@ -16298,6 +16298,11 @@
   "RootNamespace": "ProjetoMVC",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\6110900\\OneDrive - Thomson Reuters Incorporated\\Documents\\ProjetoMVC\\Views\\Contato\\Criar.cshtml",
+      "TargetPath": "Views\\Contato\\Criar.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\6110900\\OneDrive - Thomson Reuters Incorporated\\Documents\\ProjetoMVC\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
@@ -16305,6 +16310,11 @@
     {
       "FilePath": "c:\\Users\\6110900\\OneDrive - Thomson Reuters Incorporated\\Documents\\ProjetoMVC\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\6110900\\OneDrive - Thomson Reuters Incorporated\\Documents\\ProjetoMVC\\Views\\Contato\\Index.cshtml",
+      "TargetPath": "Views\\Contato\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
