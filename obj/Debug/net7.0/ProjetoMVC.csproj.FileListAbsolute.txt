@@ -1,0 +1,8 @@
+C:\Users\mateu\Documents\ProjetoMVC\obj\Debug\net7.0\ProjetoMVC.csproj.AssemblyReference.cache
+C:\Users\mateu\Documents\ProjetoMVC\obj\Debug\net7.0\ProjetoMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\Documents\ProjetoMVC\obj\Debug\net7.0\ProjetoMVC.AssemblyInfoInputs.cache
+C:\Users\mateu\Documents\ProjetoMVC\obj\Debug\net7.0\ProjetoMVC.AssemblyInfo.cs
+C:\Users\mateu\Documents\ProjetoMVC\obj\Debug\net7.0\ProjetoMVC.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Documents\ProjetoMVC\obj\Debug\net7.0\ProjetoMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mateu\Documents\ProjetoMVC\obj\Debug\net7.0\ProjetoMVC.RazorAssemblyInfo.cache
+C:\Users\mateu\Documents\ProjetoMVC\obj\Debug\net7.0\ProjetoMVC.RazorAssemblyInfo.cs

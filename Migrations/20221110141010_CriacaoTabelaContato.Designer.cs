@@ -11,8 +11,8 @@ using ProjetoMVC.Context;
 namespace ProjetoMVC.Migrations
 {
     [DbContext(typeof(AgendaContext))]
-    [Migration("20221109011809_AdicionaTabelaContato")]
-    partial class AdicionaTabelaContato
+    [Migration("20221110141010_CriacaoTabelaContato")]
+    partial class CriacaoTabelaContato
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
